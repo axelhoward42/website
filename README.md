@@ -1,2 +1,4 @@
-# website
-First website
+# Axel Howard's dope website
+
+* stuff
+* todo
