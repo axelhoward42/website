@@ -1,3 +1,3 @@
 ## axel
 * one 
-* *two*
+* two
