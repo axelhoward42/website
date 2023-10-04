@@ -1,13 +1,30 @@
-li {
-  color: red;
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
 }
 
-.foobar {
-  color: white;
-  background-color: blue;
+li{
+  display: inline;
+  padding: 10px;
+}
+#image{
+  top: 200px;
+  left: 500px;
+
+  position: relative;
+  
 }
 
-.barfoo {
-  color: white;
-  background-color: red;
+#navbar{
+
+  height: 150;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border: 5px solid color(blue);
+  background-color: white;
 }
